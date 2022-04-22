@@ -45,6 +45,6 @@ class Palette extends ChangeNotifier {
 ~~~
 
 ### **Example**
-<tr><img src="imgs/lightMode.jpg" alt="drawing" width="350"/></tr>
-<tr><img src="imgs/darkMode.jpg" alt="drawing" width="350"/></tr>
+<tr><img src="imgs/lightMode.jpg" alt="drawing" width="300"/></tr>
+<tr><img src="imgs/darkMode.jpg" alt="drawing" width="300"/></tr>
 
